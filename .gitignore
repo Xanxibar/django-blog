@@ -1,0 +1,5 @@
+*.nja
+*.pyc
+mysite/
+manage.py
+
